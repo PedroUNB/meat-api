@@ -1,5 +1,5 @@
 import { Server } from '@config/server'
-import { usersRouter } from './controllers/users/users.router'
+import { usersRouter } from '@api/users/users.router'
 
 const server = new Server()
 

@@ -13,8 +13,7 @@ module.exports = {
   plugins: [
     ['module-resolver', {
       alias: {
-        '@models': './src/models',
-        '@controllers': './src/controllers',
+        '@api': './src/api',
         '@config': './src/config'
       }
     }]

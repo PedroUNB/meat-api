@@ -7,6 +7,9 @@
 </h4>
 <br/>
 <p align="center">
+<a href="https://github.com/PedroUNB/meat-api/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="Mammoth API is released under the MIT license." />
+  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/node%20version-14.15.1-green" alt="Node Version" />
   </a>
@@ -56,10 +59,10 @@ Além disto é bom ter um editor para trabalhar com o código como:
 
 ```bash
 # Clone este repositório
-$ git clone <>
+$ git clone <https://github.com/PedroUNB/meat-api>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd
+$ cd meat-api
 
 # Instale as dependências
 $ yarn
